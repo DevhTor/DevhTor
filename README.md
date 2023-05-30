@@ -1,8 +1,5 @@
 ### FullStack Developer 
 
-C# with WPF / MAUI / XAMARIN UNITY
-PHP with Laravel
-Html
-Css with Bootstrap
+C# (Wpf, Maui, Xamarin, Unity) / PHP (Laravel) / Html / Css (Bootstrap) / JavaScript (NodeJS)
 
 
